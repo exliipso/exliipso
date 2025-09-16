@@ -1,4 +1,6 @@
-## Hi there 👋
+Hello, i'm exliipso!
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=exliipso)](https://git.io/streak-stats)
 
 <!--
 **exliipso/exliipso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
